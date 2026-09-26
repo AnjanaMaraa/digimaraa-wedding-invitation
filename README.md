@@ -1,4 +1,4 @@
-# Palaniakash &amp; Bharu — Digital Wedding Invitation
+# Vihaan &amp; Myra — Digital Wedding Invitation
 
 A premium, mobile-first digital wedding invitation built with **HTML5, CSS3 and
 vanilla JavaScript only**. No framework, no build step, no dependencies.
@@ -230,7 +230,7 @@ Mobile-first. Verified breakpoints: **320, 375, 390, 412, 430, 768, 820, 1024,
 
 ## Credits
 
-Invitation design &amp; implementation for **Palaniakash &amp; Bharu**.
+Invitation design &amp; implementation for **Vihaan &amp; Myra**.
 
 **Create your own invitation now — [DigiMaraa Technologies](https://digimaraa.com)**
 
