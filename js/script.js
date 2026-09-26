@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Vihaan & Myra — Wedding Invitation
+   Palaniakash & Bharu — Wedding Invitation
    Vanilla JS. No libraries, no dependencies, no build step.
 
    CONTENTS
@@ -44,7 +44,7 @@
   var RSVP_ENDPOINT_NOTE_DEMO =
     'Your response is saved on this device only — no information is sent to a server.';
   var RSVP_ENDPOINT_NOTE_LIVE =
-    'Your response will be sent securely to Vihaan and Myra.';
+    'Your response will be sent securely to Palaniakash and Bharu.';
 
   /* ======================================================================
      02. UTILITIES
